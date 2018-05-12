@@ -1,4 +1,5 @@
 _repo: Specimens-of-Greek-Tragedy-Aeschylus-and-Sophocles_7073
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Smith, Goldwin
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '2090'
     url: http://www.gutenberg.org/2009/agents/2090
     wikipedia: http://en.wikipedia.org/wiki/Goldwin_Smith
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Sophocles
@@ -27,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2825
     wikipedia: http://en.wikipedia.org/wiki/Aeschylus
 description: Excerpts from various plays of Aeschylus and Sophocles.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7073#Specimens-of-Greek-Tragedy-Aeschylus-and-Sophocles
 gutenberg_bookshelf:
 - Classical Antiquity
 - Harvard Classics
